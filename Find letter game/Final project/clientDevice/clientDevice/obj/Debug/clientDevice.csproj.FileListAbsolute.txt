@@ -1,0 +1,66 @@
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe.config
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.pdb
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csprojAssemblyReference.cache
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Properties.Resources.resources
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.GenerateResource.cache
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.exe
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.pdb
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Client.resources
+D:\ITI\Projects\C#\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.GameSettingDetails.resources
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe.config
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.pdb
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csprojAssemblyReference.cache
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Client.resources
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.GameSettingDetails.resources
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Properties.Resources.resources
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.GenerateResource.cache
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.CoreCompileInputs.cache
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.exe
+C:\Users\basma\OneDrive\Desktop\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.pdb
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe.config
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.pdb
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csprojAssemblyReference.cache
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Client.resources
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.GameSettingDetails.resources
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Properties.Resources.resources
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.GenerateResource.cache
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.CoreCompileInputs.cache
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.exe
+D:\ITI\Projects\C#\Final project\basma\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.pdb
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe.config
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.pdb
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csprojAssemblyReference.cache
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Client.resources
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.GameSettingDetails.resources
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Properties.Resources.resources
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.GenerateResource.cache
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.CoreCompileInputs.cache
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.exe
+D:\برمجه\c#\Project\Final project (3)\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe.config
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.pdb
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csprojAssemblyReference.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Client.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.GameSettingDetails.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Properties.Resources.resources
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.GenerateResource.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.exe
+C:\Users\Blu-Ray\OneDrive\Desktop\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.pdb
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe.config
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.exe
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\bin\Debug\clientDevice.pdb
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csprojAssemblyReference.cache
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Client.resources
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.GameSettingDetails.resources
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.Properties.Resources.resources
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.GenerateResource.cache
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.csproj.CoreCompileInputs.cache
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.exe
+C:\Users\Ashraf\Downloads\isaaaa\Final project\clientDevice\clientDevice\obj\Debug\clientDevice.pdb
